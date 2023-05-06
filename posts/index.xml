@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    
+    
+    
+    <link>http://ugnesiu.github.io/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 May 2023 23:57:21 +0300</lastBuildDate>
+    
+	<atom:link href="http://ugnesiu.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>World Miracles</title>
+      <link>http://ugnesiu.github.io/posts/page.lab/</link>
+      <pubDate>Sat, 06 May 2023 23:57:21 +0300</pubDate>
+      
+      <guid>http://ugnesiu.github.io/posts/page.lab/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          What Are the Seven Wonders of the World?
+The Colosseum, Rome, Italy The Great Wall of China The Taj Mahal, India Christ the Redeemer, Brazil Machu Picchu, Peru Chichén Itzá, Mexico Petra, Jordan 
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
